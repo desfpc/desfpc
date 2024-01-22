@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <p><img src="https://nozhove.com/nozhove_pixel.png" width="150"/></p>
+  <p>🔭 I’m currently working on <a href="https://github.com/desfpc/iceCMS2">IceCMS2</a></p>
+</div>
 
 <!--
 **desfpc/desfpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
