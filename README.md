@@ -21,7 +21,7 @@ My key traits:
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 **Backend:** PHP (Laravel, Symfony, Yii), Go  
 **Frontend:** Vue.js, JavaScript, jQuery, Bootstrap  
@@ -33,7 +33,7 @@ My key traits:
 
 ---
 
-## 🧪 Philosophy
+## 🧠 Philosophy
 
 - Pragmatist, leaning toward **Extreme Programming (XP)** — quick iterations, real feedback, collective code ownership, and evolving architecture.
 - Not a fan of "Clean Architecture" as an ideology — prefer practical solutions tailored to the domain and problem.
@@ -42,7 +42,7 @@ My key traits:
 
 ---
 
-## 🧪 What I'm Into
+## 🚀 What I'm Into
 
 - 🧬 Building clean, scalable systems
 - 📦 Dockerized development workflows
