@@ -4,7 +4,7 @@
 🔧 Senior Backend Engineer with Architecture and Mentorship Focus  
 💬 Telegram: [@desfpc](https://t.me/desfpc)  
 📧 Email: desfpc@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/sergei-peshalov) | [GitHub](https://github.com/desfpc)
+🔗 [LinkedIn](https://linkedin.com/in/sergei-peshalov)
 
 ---
 
@@ -39,26 +39,6 @@ My key traits:
 - Not a fan of "Clean Architecture" as an ideology — prefer practical solutions tailored to the domain and problem.
 - Believe in building lightweight, custom solutions where frameworks add unnecessary complexity.
 - Prefer understanding what happens under the hood — whether it’s your own codebase or a third-party tool.
-
----
-
-## 🚀 What I'm Into
-
-- 🧬 Building clean, scalable systems
-- 📦 Dockerized development workflows
-- 🔁 Evolving (Living) Architecture — systems that grow with real needs
-- 🧑‍🏫 Mentorship and tech leadership
-- 📚 Constantly learning and improving
-
----
-
-## 📂 Let's Connect
-
-If you're looking for a skilled backend engineer or open to collaboration — feel free to reach out.
-
-🔗 [LinkedIn](https://linkedin.com/in/sergei-peshalov)  
-💬 Telegram: [@desfpc](https://t.me/desfpc)  
-📧 Email: desfpc@gmail.com
 
 ---
 
