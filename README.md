@@ -36,7 +36,6 @@ My key traits:
 ## 🧠 Philosophy
 
 - Pragmatist, leaning toward **Extreme Programming (XP)** — quick iterations, real feedback, collective code ownership, and evolving architecture.
-- Not a fan of "Clean Architecture" as an ideology — prefer practical solutions tailored to the domain and problem.
 - Believe in building lightweight, custom solutions where frameworks add unnecessary complexity.
 - Prefer understanding what happens under the hood — whether it’s your own codebase or a third-party tool.
 
