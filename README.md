@@ -1,4 +1,4 @@
-# Sergey, Senior Software Developer
+# Sergei, Senior Software Developer
 
 Based in **Belgrade, Serbia (residence permit)**, I bring **18+ years of commercial experience** crafting scalable solutions, from back-office systems (document management, logistics, sales reporting, and planning) to high-load platforms for gambling and betting. My work focuses on **simplicity, performance, and reliability**.
 
